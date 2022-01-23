@@ -1,0 +1,22 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Bilgi Merkezi - Giriş",
+  "description": "Docusaurus in x x x y less than 5 minutes.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "editUrl": "https://bitbucket.org/phinansalozgurluk/websitesi/src/master/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/tutorial-güncel/manage-docs-versions"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras Kopie/manage-docs-versions",
+  "id": "tutorial-extras Kopie/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/tutorial-extras Kopie/manage-docs-versions.md",
+  "sourceDirName": "tutorial-extras Kopie",
+  "slug": "/tutorial-extras Kopie/manage-docs-versions",
+  "permalink": "/docs/tutorial-extras Kopie/manage-docs-versions",
+  "editUrl": "https://bitbucket.org/phinansalozgurluk/websitesi/src/master/docs/tutorial-extras Kopie/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras Kopie/translate-your-site"
+  }
+}
